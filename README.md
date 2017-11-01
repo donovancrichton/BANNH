@@ -1,4 +1,4 @@
-# BANNH - A Backpropgation Artificial Neural Network in Haskell
+# BANNH - A Back-propagating Artificial Neural Network in Haskell
 
 This is the first project I ever wrote in Haskell, after spending a month or so
 getting a feel for the language. Developed as part of the assessment for an
