@@ -1,4 +1,4 @@
-# BANNH - A BackPropagating Artificial Neural Network in Haskell
+# BANNH - A Backpropgation Artificial Neural Network in Haskell
 
 This is the first project I ever wrote in Haskell, after spending a month or so
 getting a feel for the language. Developed as part of the assessment for an
@@ -20,13 +20,13 @@ This project requires the following in order to build:
 * Latex
 * Python 2.8 (for latex minted package)
 * `ad` https://hackage.haskell.org/package/ad
-This has only been tested on a linux machine running Ubutnu 16.04 however
-there is no reason why it cannot be built and compiled on linux, windows and
+This has only been tested on a Linux machine running Ubuntu 16.04 however
+there is no reason why it cannot be built and compiled on Linux, windows and
 mac.
 
 ## Outcome
 The neural network trains in a reasonable time for small mathematical
-functions, unfortunately even on a tiny image classification data set (60 x 1kb
+functions, unfortunately even on a tiny image classification data set (60 x 1KB
 images), the performance is atrocious. This was due in part to my use of the
 `ad` library, much faster performance could be obtained by calculating the
 derivatives manually. The other part was due to my inexperience with reasoning
