@@ -1,0 +1,48 @@
+\begin{thebibliography}{}
+
+\bibitem[Chakravarty and Keller, 2003]{chakravarty2003approach}
+Chakravarty, M.~M. and Keller, G. (2003).
+\newblock An approach to fast arrays in haskell.
+\newblock {\em Lecture notes in computer science}, pages 27--58.
+
+\bibitem[Elliott, 2009]{Elliott2009-beautiful-differentiation}
+Elliott, C. (2009).
+\newblock Beautiful differentiation.
+\newblock In {\em International Conference on Functional Programming (ICFP)}.
+
+\bibitem[Elliott, 2017]{Elliott-2017-compiling-to-categories}
+Elliott, C. (2017).
+\newblock Compiling to categories.
+\newblock {\em Proc. ACM Program. Lang.}, 1(ICFP).
+
+\bibitem[Gill, 2000]{gill2000debugging}
+Gill, A. (2000).
+\newblock Debugging haskell by observing intermediate data structures.
+\newblock {\em Electr. Notes Theor. Comput. Sci.}, 41(1):1.
+
+\bibitem[Haykin, 2007]{Haykin:2007:NNC:1213811}
+Haykin, S. (2007).
+\newblock {\em Neural Networks: A Comprehensive Foundation (3rd Edition)}.
+\newblock Prentice-Hall, Inc., Upper Saddle River, NJ, USA.
+
+\bibitem[Hornik et~al., 1989]{hornik1989multilayer}
+Hornik, K., Stinchcombe, M., and White, H. (1989).
+\newblock Multilayer feedforward networks are universal approximators.
+\newblock {\em Neural networks}, 2(5):359--366.
+
+\bibitem[Ida and Tanaka, 1983]{ida1983functional}
+Ida, T. and Tanaka, J. (1983).
+\newblock Functional programming with streams.
+\newblock In {\em IFIP Congress}, pages 265--270.
+
+\bibitem[Russell and Norvig, 2010]{russell2010artificial}
+Russell, S.~J. and Norvig, P. (2010).
+\newblock {\em Artificial intelligence: a modern approach (3rd Edition)}.
+\newblock $\{$Pearson US Imports \& PHIPEs$\}$.
+
+\bibitem[Zimmer, 2006]{zimmer2006functional}
+Zimmer, H. (2006).
+\newblock Functional differentiation of computer programs by jerzy
+  karczmarczuk.
+
+\end{thebibliography}
